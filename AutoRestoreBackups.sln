@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRestoreBackups", "AutoRestoreBackups\AutoRestoreBackups.csproj", "{407CEF54-473A-4BDC-8C06-970528EE502E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407CEF54-473A-4BDC-8C06-970528EE502E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407CEF54-473A-4BDC-8C06-970528EE502E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407CEF54-473A-4BDC-8C06-970528EE502E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407CEF54-473A-4BDC-8C06-970528EE502E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBB904E6-F53E-4BD4-B8C1-CD6CC6A67032}
+	EndGlobalSection
+EndGlobal

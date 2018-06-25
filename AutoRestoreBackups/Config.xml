@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DirectoryEntries>
+  <Entry Name="Dev" Path="D:\DevEnv\AutoRestoreBackup">
+    <SQLConnectionsLinks>
+      <Link ServerName ="" ConnectionTimeOut="60">
+        <Options>
+          <Option Name="AllowOverride" Value="False"/>
+        </Options>
+      </Link>
+    </SQLConnectionsLinks>
+  </Entry>
+</DirectoryEntries>

@@ -1,6 +1,6 @@
 ﻿namespace AutoRestoreBackups
 {
-    partial class Service1
+    partial class AutoRestoreService
     {
         /// <summary> 
         /// Обязательная переменная конструктора.
@@ -29,7 +29,9 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            this.ServiceName = "AutoRestoreBackups";
+            this.CanStop = true;
+            this.AutoLog = true;
         }
 
         #endregion

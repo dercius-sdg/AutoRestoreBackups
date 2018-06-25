@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ServiceConsoleTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DirectoryTag" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Entry</Value>
+    </Setting>
+    <Setting Name="ConnectionTag" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Link</Value>
+    </Setting>
+    <Setting Name="OptionTag" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Option</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

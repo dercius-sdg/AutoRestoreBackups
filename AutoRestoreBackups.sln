@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRestoreBackups", "AutoRestoreBackups\AutoRestoreBackups.csproj", "{407CEF54-473A-4BDC-8C06-970528EE502E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceConsoleTest", "ServiceConsoleTest\ServiceConsoleTest.csproj", "{07A6CA07-42DC-4FE0-B90C-5840F3ADF71D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{407CEF54-473A-4BDC-8C06-970528EE502E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{407CEF54-473A-4BDC-8C06-970528EE502E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{407CEF54-473A-4BDC-8C06-970528EE502E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A6CA07-42DC-4FE0-B90C-5840F3ADF71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A6CA07-42DC-4FE0-B90C-5840F3ADF71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A6CA07-42DC-4FE0-B90C-5840F3ADF71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A6CA07-42DC-4FE0-B90C-5840F3ADF71D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
